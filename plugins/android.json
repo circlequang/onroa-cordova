@@ -1,0 +1,39 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        },
+        "cordova-plugin-wkwebview-engine": {
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "1286728268051325",
+            "APP_NAME": "Onroa",
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        },
+        "cordova-plugin-google-analytics": {
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "onroa.mobile.onroaapp"
+        }
+    }
+}
